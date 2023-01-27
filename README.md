@@ -1,1 +1,1 @@
-# hyperledger-fabrice-example
+# hyperledger-fabric-example
